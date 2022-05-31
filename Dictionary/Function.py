@@ -3,7 +3,7 @@ d["percent"]=100
 print(d)
 print(type(d))
 print(len)
-d.pop("ahsan")
+d.pop("vikas")
 print(d)
 del d["gla"]
 print(d)
